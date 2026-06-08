@@ -1,0 +1,5 @@
+cl\rednorte\listaespera\controller\ListaEsperaController.class
+cl\rednorte\listaespera\model\ListaEspera.class
+cl\rednorte\listaespera\repository\ListaEsperaRepository.class
+cl\rednorte\listaespera\config\SecurityConfig.class
+cl\rednorte\listaespera\MsListaEsperaApplication.class
