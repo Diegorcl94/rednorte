@@ -1,0 +1,16 @@
+C:\Users\diego\Desktop\rednortefinal\ms-pacientes-usuarios\src\main\java\cl\rednorte\pacientesusuarios\config\SecurityConfig.java
+C:\Users\diego\Desktop\rednortefinal\ms-pacientes-usuarios\src\main\java\cl\rednorte\pacientesusuarios\controller\AuthController.java
+C:\Users\diego\Desktop\rednortefinal\ms-pacientes-usuarios\src\main\java\cl\rednorte\pacientesusuarios\controller\HealthController.java
+C:\Users\diego\Desktop\rednortefinal\ms-pacientes-usuarios\src\main\java\cl\rednorte\pacientesusuarios\controller\PacienteController.java
+C:\Users\diego\Desktop\rednortefinal\ms-pacientes-usuarios\src\main\java\cl\rednorte\pacientesusuarios\controller\RolController.java
+C:\Users\diego\Desktop\rednortefinal\ms-pacientes-usuarios\src\main\java\cl\rednorte\pacientesusuarios\controller\UsuarioController.java
+C:\Users\diego\Desktop\rednortefinal\ms-pacientes-usuarios\src\main\java\cl\rednorte\pacientesusuarios\dto\LoginRequest.java
+C:\Users\diego\Desktop\rednortefinal\ms-pacientes-usuarios\src\main\java\cl\rednorte\pacientesusuarios\dto\LoginResponse.java
+C:\Users\diego\Desktop\rednortefinal\ms-pacientes-usuarios\src\main\java\cl\rednorte\pacientesusuarios\model\Paciente.java
+C:\Users\diego\Desktop\rednortefinal\ms-pacientes-usuarios\src\main\java\cl\rednorte\pacientesusuarios\model\Rol.java
+C:\Users\diego\Desktop\rednortefinal\ms-pacientes-usuarios\src\main\java\cl\rednorte\pacientesusuarios\model\Usuario.java
+C:\Users\diego\Desktop\rednortefinal\ms-pacientes-usuarios\src\main\java\cl\rednorte\pacientesusuarios\MsPacientesUsuariosApplication.java
+C:\Users\diego\Desktop\rednortefinal\ms-pacientes-usuarios\src\main\java\cl\rednorte\pacientesusuarios\repository\PacienteRepository.java
+C:\Users\diego\Desktop\rednortefinal\ms-pacientes-usuarios\src\main\java\cl\rednorte\pacientesusuarios\repository\RolRepository.java
+C:\Users\diego\Desktop\rednortefinal\ms-pacientes-usuarios\src\main\java\cl\rednorte\pacientesusuarios\repository\UsuarioRepository.java
+C:\Users\diego\Desktop\rednortefinal\ms-pacientes-usuarios\src\main\java\cl\rednorte\pacientesusuarios\security\JwtUtil.java
